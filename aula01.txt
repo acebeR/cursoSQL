@@ -1,0 +1,31 @@
+Aula 01
+
+DDL - Data Definition Language
+
+CREATE - Criar novas tabelas
+ALTER - Modificar tabelas
+DROP - Excluir Tabelas
+
+-------------------------------
+DNL - Data Manipulation Language
+
+INSERT - Inserir dados
+UPDATE - Alterar dados
+DELETE - Deletar dados
+
+--------------------------------
+DCL - Data Control Language
+
+GRANT - Dá privilégios a um usuário
+REVOKE - Retira os privilégios
+
+--------------------------------
+DQL - Data Query Language
+
+SELECT - Obtém registros 
+
+
+--------------------------------
+
+
+
